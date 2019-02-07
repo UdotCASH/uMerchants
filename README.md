@@ -1,2 +1,2 @@
 # uMerchants
-Digital currency payment processing services for merchants globally.
+Will be uploaded from private repo when ready.
